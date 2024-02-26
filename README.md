@@ -4,7 +4,7 @@ Este programa es un script de Bash que interactúa con la API de Telegram para e
 
 |  Ayuda  | Mensaje enviado	|
 | ------------  | ------------ |
-|![f](https://github.com/S0ulx3/Tbash/blob/main/Tbash_1.png)|![f](https://github.com/S0ulx3/Tbash/blob/main/Tbash_2_v-1.5.png)
+|![f](https://github.com/S0ulx3/Tbash/blob/main/Tbash_1.png)|![f](https://github.com/S0ulx3/TBash/blob/main/Tbash_2-v-1.5.png)
 
 ------------------------------------------------------------------------------------------------------
 - [!] AVISO LEGAL [!]
