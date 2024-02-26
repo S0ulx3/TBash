@@ -124,3 +124,4 @@ clear
 
                 fi
 }
+  menu
