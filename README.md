@@ -6,7 +6,7 @@ Este programa es un script de Bash que interactúa con la API de Telegram para e
 | ------------  | ------------ |
 |![f](https://github.com/S0ulx3/Tbash/blob/main/Tbash_1.png)|![f](https://github.com/S0ulx3/Tbash/blob/main/Tbash_2.png)
 
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+------------------------------------------------------------------------------------------------------
 - [!] AVISO LEGAL [!]
 - Este programa es un script de Bash que interactúa con la API de Telegram para enviar mensajes a un chat específico.
 - Se proporciona 'TAL CUAL', sin garantías de ningún tipo, ya sean expresas o implícitas.
@@ -15,4 +15,4 @@ Este programa es un script de Bash que interactúa con la API de Telegram para e
 - Además, al utilizar este programa, te comprometes a cumplir con todas las políticas y regulaciones de Telegram.
 - El uso indebido de este programa puede resultar en la suspensión de tu cuenta de Telegram. 
 - [!] Por favor, usa este programa de manera responsable [!]
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+------------------------------------------------------------------------------------------------------
